@@ -19,4 +19,6 @@ git init
 ```
 Это лишь некоторые функции markdown
 
-[GitHub](https://github.com/ "https://github.com/")
+[GitHub](https://github.com/)
+
+[Репозиторий](https://github.com/m3ld/first-project "https://github.com/m3ld/first-project")
