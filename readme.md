@@ -8,3 +8,5 @@
 Заголовки можно создовать с помощью #
 ## Выделение кода
 код выделяется тройными ковычками
+[GitHub](https://github.com/)
+[Репозиторий](https://github.com/m3ld/first-project "https://github.com/m3ld/first-project")
