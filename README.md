@@ -22,3 +22,13 @@ git init
 [GitHub](https://github.com/)
 
 [Репозиторий](https://github.com/m3ld/first-project "https://github.com/m3ld/first-project")
+
+# Жизненный цикл файла в Git:
+
+```mermaid
+graph LR;
+  untracked -- "git add" --> staged;
+  staged -- "git commit" --> tracked/comitted;
+  tracked/comitted -- "изменили файл" --> modified;
+   modified -- "git add" --> tracked/staged;
+```
